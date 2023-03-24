@@ -1,6 +1,6 @@
 # wbAdmin
 
-view in https://willianmikhael.github.io/wbAdmin/
+view in https://wbadmin.netlify.app
 
 🔨
 I'm building an RPA system... Keep Calm
